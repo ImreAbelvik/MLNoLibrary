@@ -1,4 +1,4 @@
-# Importing librarys
+# Importing libraries
 import matplotlib.pyplot as plt
 import pandas as pd
 import math
